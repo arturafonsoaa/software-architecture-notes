@@ -16,11 +16,12 @@ O objetivo é:
 
 O conteúdo está organizado por temas:
 
-* **01 - Fundamentos**
+* **01 - Princípios**
 * **02 - Design Patterns**
-* **03 - Conceitos de Clean Code**
-* **04 - Estilos Arquiteturais**
-* **05 - Aplicações em Laravel**
+* **03 - Clean Code & Boas Práticas**
+* **04 - Arquitetura**
+* **05 - Estilos Arquiteturais**
+* **06 - Aplicações em Laravel**
 
 Cada pasta agrupa artigos relacionados ao mesmo assunto, mantendo progressão lógica e organização.
 
